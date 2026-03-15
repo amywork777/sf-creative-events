@@ -2,7 +2,7 @@
 
 A curated list of creative events in San Francisco — workshops, exhibitions, craft fairs, and more.
 
-🌸 **[Live site →](https://sf-creative-events.vercel.app)**
+🌸 **[Live site →](https://amywork777.github.io/sf-creative-events/)**
 
 ## Sources
 
@@ -36,7 +36,7 @@ Push to `main` and Vercel will auto-deploy.
 
 ## Tech
 
-Static HTML/CSS/JS. No build step. Deployed on Vercel.
+Static HTML/CSS/JS. No build step. Deployed on GitHub Pages (from `/docs` folder).
 
 ## Adding new sources
 
