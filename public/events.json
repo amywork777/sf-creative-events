@@ -15,6 +15,20 @@
     "emoji": "🎨"
   },
   {
+    "id": "wcc-waves",
+    "title": "WCC WAVES Vintage Market",
+    "subtitle": "100+ vendors · West Coast Craft",
+    "date": "2026-03-14",
+    "time": "11:00 AM – 6:00 PM",
+    "location": "Fort Mason Gateway Pavilion",
+    "price": "Free",
+    "source": "funcheap",
+    "sourceName": "West Coast Craft",
+    "link": "https://www.westcoastcraft.com/waves-attend",
+    "description": "West Coast Craft's WAVES vintage market returns with 100+ vendors selling vintage, antique, and secondhand goods at Fort Mason.",
+    "emoji": "🛍️"
+  },
+  {
     "id": "nowplace-zine-workshop",
     "title": "Zine Workshop — Women's Special Series",
     "subtitle": "女子特辑 · Part of Women's Month",
@@ -41,6 +55,20 @@
     "link": "https://luma.com/eao7sety",
     "description": "Create your first beat in an hour using Soniare's Beat DJ software. Hands-on experience creating songs and performing in a low-stakes environment.",
     "emoji": "🎵"
+  },
+  {
+    "id": "tiat-comp-poetry",
+    "title": "Computational Poetry Reading Group",
+    "subtitle": "Language meets technology",
+    "date": "2026-03-18",
+    "time": "TBA",
+    "location": "151 Powell St, San Francisco",
+    "price": "Free",
+    "source": "tiat",
+    "sourceName": "TIAT",
+    "link": "https://luma.com/8zjxy052",
+    "description": "A recurring series at the intersection of language and technology. Read and discuss computational poetry and electronic literature. Laptop recommended.",
+    "emoji": "📝"
   },
   {
     "id": "tiat-open-sound-1",
@@ -72,18 +100,18 @@
     "emoji": "✨"
   },
   {
-    "id": "tiat-comp-poetry",
-    "title": "Computational Poetry Reading Group",
-    "subtitle": "Language meets technology",
-    "date": "2026-03-18",
-    "time": "TBA",
-    "location": "151 Powell St, San Francisco",
+    "id": "tulip-day",
+    "title": "Tulip Day — 80,000 Free Tulips",
+    "subtitle": "Pick up to 8 free tulips!",
+    "date": "2026-03-21",
+    "time": "1:00 PM (line opens 9am)",
+    "location": "Union Square, San Francisco",
     "price": "Free",
-    "source": "tiat",
-    "sourceName": "TIAT",
-    "link": "https://luma.com/8zjxy052",
-    "description": "A recurring series at the intersection of language and technology. Read and discuss computational poetry and electronic literature. Laptop recommended.",
-    "emoji": "📝"
+    "source": "funcheap",
+    "sourceName": "Union Square Alliance",
+    "link": "https://visitunionsquaresf.com/tulip-day",
+    "description": "Union Square transforms into a blooming field of 80,000 free Dutch tulips. Pick up to 8 tulips each. Expect long lines — arrive early!",
+    "emoji": "🌷"
   },
   {
     "id": "tiat-papier-mache",
@@ -143,6 +171,20 @@
     "emoji": "📖"
   },
   {
+    "id": "sf-chocolate-salon",
+    "title": "SF International Chocolate Salon",
+    "subtitle": "20th anniversary · tastings & demos",
+    "date": "2026-03-28",
+    "time": "11:00 AM – 5:00 PM",
+    "location": "Hall of Flowers, 1199 9th Ave (Golden Gate Park)",
+    "price": "$25",
+    "source": "funcheap",
+    "sourceName": "SF Chocolate Salon",
+    "link": "https://www.eventbrite.com/e/san-francisco-chocolate-salon-and-festival-2026-tickets-1976663690308",
+    "description": "The original artisan chocolate festival on the West Coast celebrates 20 years. Tastings, demonstrations, and chef talks included with entry.",
+    "emoji": "🍫"
+  },
+  {
     "id": "junk-journal-intro-sat",
     "title": "Intro to Junk Journaling Workshop",
     "subtitle": "Saturday session",
@@ -177,12 +219,12 @@
     "date": "2026-03-28",
     "endDate": "2026-03-29",
     "time": "11:00 AM – 5:00 PM",
-    "location": "Fort Mason Center, San Francisco",
+    "location": "Fort Mason Festival Pavilion",
     "price": "Free",
     "source": "funcheap",
-    "sourceName": "SF Funcheap",
-    "link": "https://sf.funcheap.com",
-    "description": "250+ independent makers and artists showcase handmade goods, art, and design at Fort Mason.",
+    "sourceName": "Renegade Craft Fair",
+    "link": "https://sf.funcheap.com/2026-renegade-craft-fair-market-at-fort-mason-march-28-29/",
+    "description": "250+ independent makers and artists showcase handmade goods, art, and design at Fort Mason. $5 suggested entry.",
     "emoji": "🧶"
   },
   {
@@ -226,5 +268,19 @@
     "link": "https://lu.ma/nl0vvs05",
     "description": "A private gathering to observe Qingming Festival at nowplace 此间.",
     "emoji": "🌿"
+  },
+  {
+    "id": "fort-mason-night-market",
+    "title": "Fort Mason Night Market",
+    "subtitle": "Shopping, food trucks, live music & Bay views",
+    "date": "2026-04-24",
+    "time": "5:00 PM – 10:00 PM",
+    "location": "Fort Mason Center, 2 Marina Blvd",
+    "price": "Free",
+    "source": "funcheap",
+    "sourceName": "Fort Mason Center",
+    "link": "https://fortmason.org/event/fort-mason-night-market-2026/",
+    "description": "Friday night outdoor market with 100+ craft vendors by West Coast Craft, 25+ food & drink options from Off the Grid, live DJs, and waterfront views.",
+    "emoji": "🌙"
   }
 ]
