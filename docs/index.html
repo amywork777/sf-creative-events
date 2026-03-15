@@ -442,7 +442,7 @@
 </header>
 
 <div class="time-filter" id="timeFilter">
-  <button class="time-btn active" data-time="week">This Week</button>
+  <button class="time-btn active" data-time="week">Next 7 Days</button>
   <button class="time-btn" data-time="upcoming">Upcoming</button>
   <button class="time-btn" data-time="all">All</button>
 </div>
@@ -512,19 +512,10 @@ function isPast(s) { return parseDate(s) < today(); }
 
 function getWeekRange() {
   const t = today();
-  const dayOfWeek = t.getDay();
-  // week = Mon-Sun
-  const mon = new Date(t);
-  mon.setDate(t.getDate() - (dayOfWeek === 0 ? 6 : dayOfWeek - 1));
-  const sun = new Date(mon);
-  sun.setDate(mon.getDate() + 6);
-  return { start: mon, end: sun };
-}
-
-function isThisWeek(dateStr) {
-  const { start, end } = getWeekRange();
-  const d = parseDate(dateStr);
-  return d >= start && d <= end;
+  const start = new Date(t);
+  const end = new Date(t);
+  end.setDate(t.getDate() + 7);
+  return { start, end };
 }
 
 function getPriceClass(p) {
@@ -577,7 +568,7 @@ function render() {
 
   if (activeTime === 'week') {
     const weekLabel = `${MONTHS[start.getMonth()]} ${start.getDate()} – ${start.getMonth() !== end.getMonth() ? MONTHS[end.getMonth()] + ' ' : ''}${end.getDate()}`;
-    html += `<div class="week-hero"><div class="week-label">This Week</div><div class="week-dates">${weekLabel}</div></div>`;
+    html += `<div class="week-hero"><div class="week-label">Coming Up</div><div class="week-dates">${weekLabel}</div></div>`;
   }
 
   let cardIndex = 0;
