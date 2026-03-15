@@ -476,7 +476,7 @@ let activeTime = 'week';
 
 async function loadEvents() {
   try {
-    const res = await fetch('/events.json');
+    const res = await fetch('./events.json');
     allEvents = await res.json();
     render();
   } catch (err) {
