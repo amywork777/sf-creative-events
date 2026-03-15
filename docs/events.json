@@ -1,5 +1,20 @@
 [
   {
+    "id": "dusted-blue-voluminous",
+    "title": "Mastering Voluminous Vessels on Wheel",
+    "subtitle": "6-week course · Tuesdays",
+    "date": "2026-03-10",
+    "endDate": "2026-04-14",
+    "time": "Tue 6:30 PM – 9:00 PM",
+    "location": "Dusted & Blue, 1242 Mason St (Nob Hill)",
+    "price": "$450",
+    "source": "workshop",
+    "sourceName": "Dusted & Blue",
+    "link": "https://www.dustedandblue.com/classes",
+    "description": "Level up your pottery skills with a 6-week course focused on creating large-scale vessels on the wheel.",
+    "emoji": "🏺"
+  },
+  {
     "id": "funcheap-artistica",
     "title": "Artistica Creators Fest",
     "subtitle": "35+ local artisans & antique mercantile",
@@ -57,6 +72,21 @@
     "emoji": "🎵"
   },
   {
+    "id": "somarts-clay-days",
+    "title": "SOMArts Clay Days",
+    "subtitle": "Handbuilding ceramics · ongoing Mon/Wed",
+    "date": "2026-03-17",
+    "time": "Mon & Wed 6:00 PM – 9:00 PM",
+    "location": "SOMArts, 934 Brannan St",
+    "price": "$150/mo",
+    "source": "workshop",
+    "sourceName": "SOMArts",
+    "link": "https://www.eventbrite.com/e/clay-days-2026-tickets-1979625993637",
+    "description": "Monthly membership ceramics program. Handbuilding sessions every Monday and Wednesday evening. Glaze, tools, and kiln firings included.",
+    "recurring": "Mon & Wed evenings",
+    "emoji": "🧱"
+  },
+  {
     "id": "tiat-comp-poetry",
     "title": "Computational Poetry Reading Group",
     "subtitle": "Language meets technology",
@@ -69,6 +99,21 @@
     "link": "https://luma.com/8zjxy052",
     "description": "A recurring series at the intersection of language and technology. Read and discuss computational poetry and electronic literature. Laptop recommended.",
     "emoji": "📝"
+  },
+  {
+    "id": "dusted-blue-intro-wheel",
+    "title": "Intro to Wheel — 6-Week Pottery Course",
+    "subtitle": "Only 2 spots left!",
+    "date": "2026-03-18",
+    "endDate": "2026-04-22",
+    "time": "Wed 6:30 PM – 9:00 PM",
+    "location": "Dusted & Blue, 1242 Mason St (Nob Hill)",
+    "price": "$385",
+    "source": "workshop",
+    "sourceName": "Dusted & Blue",
+    "link": "https://www.dustedandblue.com/classes",
+    "description": "6-week wheel throwing course for all levels. Wednesdays 6:30-9pm, March 18 through April 22. Only 2 spots remaining.",
+    "emoji": "🫖"
   },
   {
     "id": "tiat-open-sound-1",
@@ -100,6 +145,48 @@
     "emoji": "✨"
   },
   {
+    "id": "workshopsf-ceramics-mugs",
+    "title": "Simple Ceramics: Handbuild Tea/Coffee Mugs",
+    "subtitle": "Transform clay into two functional mugs",
+    "date": "2026-03-20",
+    "time": "7:00 PM – 10:00 PM",
+    "location": "Studio Sumi, 5031 Geary Blvd (Inner Richmond)",
+    "price": "$88",
+    "source": "workshop",
+    "sourceName": "WorkshopSF",
+    "link": "https://workshopsf.org/class/simple-ceramics-handbuild-your-own-tea-or-coffee-mugs-inner-richmond-location-0320/",
+    "description": "Learn handbuilding techniques to create two lovely mugs from a slab of clay. All materials and firing included.",
+    "emoji": "🏺"
+  },
+  {
+    "id": "terrarium-workshop",
+    "title": "Rooted & Relaxed: A Terrarium Workshop",
+    "subtitle": "A gentle creative pause in a busy world",
+    "date": "2026-03-20",
+    "time": "7:00 PM – 9:00 PM",
+    "location": "Sunset Commons, 1600 Irving St",
+    "price": "$65",
+    "source": "workshop",
+    "sourceName": "Sunset Commons",
+    "link": "https://www.eventbrite.com/e/rooted-relaxed-a-terrarium-workshop-tickets-1984236364380",
+    "description": "Build your own terrarium with glass vessel, soil, moss, stones and tiny accents. Tea included. No green thumb required.",
+    "emoji": "🌱"
+  },
+  {
+    "id": "sfcb-workshops",
+    "title": "SF Center for the Book — Workshops",
+    "subtitle": "Letterpress, bookbinding, risograph & more",
+    "date": "2026-03-20",
+    "time": "Various",
+    "location": "SFCB, 375 Rhode Island St",
+    "price": "Varies",
+    "source": "workshop",
+    "sourceName": "SF Center for the Book",
+    "link": "https://www.sfcb.org/workshops",
+    "description": "Ongoing workshops in letterpress printing, bookbinding, risograph, and book arts. Summer 2026 term launches late March.",
+    "emoji": "📚"
+  },
+  {
     "id": "tulip-day",
     "title": "Tulip Day — 80,000 Free Tulips",
     "subtitle": "Pick up to 8 free tulips!",
@@ -128,6 +215,21 @@
     "emoji": "🎭"
   },
   {
+    "id": "dusted-blue-onggi",
+    "title": "4-Day Korean Onggi Masterclass",
+    "subtitle": "Rare opportunity with Teacher Kwak",
+    "date": "2026-03-23",
+    "endDate": "2026-03-26",
+    "time": "All Day",
+    "location": "Dusted & Blue, 1242 Mason St (Nob Hill)",
+    "price": "$2,000",
+    "source": "workshop",
+    "sourceName": "Dusted & Blue",
+    "link": "https://www.dustedandblue.com/classes",
+    "description": "A rare 4-day intensive masterclass in Korean Onggi pottery with visiting Teacher Kwak. Only 2 spots available.",
+    "emoji": "🍶"
+  },
+  {
     "id": "tiat-livecoding-2",
     "title": "Livecoding Music — Beat DJ Workshop",
     "subtitle": "Learn to create & perform music through code",
@@ -140,6 +242,20 @@
     "link": "https://luma.com/5us3q7sd",
     "description": "Create your first beat in an hour using Soniare's Beat DJ software. Weekly recurring workshop.",
     "emoji": "🎵"
+  },
+  {
+    "id": "friends-neighbors-riso",
+    "title": "Cut & Paste: Analog Risograph Workshop",
+    "subtitle": "Make 20 risograph postcards",
+    "date": "2026-03-25",
+    "time": "6:00 PM – 9:30 PM",
+    "location": "Friends & Neighbors, 275 6th Ave (Inner Richmond)",
+    "price": "$109",
+    "source": "workshop",
+    "sourceName": "Friends & Neighbors",
+    "link": "https://www.eventbrite.com/e/cut-paste-analog-risograph-workshop-tickets-1982837793216",
+    "description": "All-analog Risograph workshop. Collage, cut-and-paste, and color to create a set of two-color risograph postcards. Phone-free community.",
+    "emoji": "🖨️"
   },
   {
     "id": "tiat-open-sound-2",
