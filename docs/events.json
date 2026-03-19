@@ -60,18 +60,17 @@
         "emoji": "\ud83c\udfa7"
     },
     {
-        "id": "superfair-sf-2026",
+        "id": "superfair-sf-thu",
         "title": "Superfair SF \u2014 180 Independent Artists",
-        "subtitle": "4-day art fair \u00b7 Fort Mason \u00b7 through Sunday!",
+        "subtitle": "Day 1 \u00b7 Fort Mason \u00b7 4 days of art",
         "date": "2026-03-19",
-        "endDate": "2026-03-22",
-        "time": "Thu\u2013Fri 4\u201310pm, Sat 10am\u20138pm, Sun 11am\u20135pm",
+        "time": "4:00 PM \u2013 10:00 PM",
         "location": "Gateway Pavilion (Pier 2), Fort Mason",
         "price": "$17 (use FUNCHEAP50 for 50% off!)",
         "source": "funcheap",
         "sourceName": "Superfair SF",
         "link": "https://sf.funcheap.com/superfair-san-francisco-w-180-artists-march-19-22/",
-        "description": "Superfair SF's biggest Bay Area edition yet \u2014 180 independent artists across two floors of the Gateway Pavilion at Fort Mason. Immersive programming and weekend of art discovery. Happening NOW through Sunday!",
+        "description": "Superfair SF's biggest Bay Area edition yet \u2014 180 independent artists across two floors at Fort Mason. Through Sunday!",
         "emoji": "\ud83c\udfa8"
     },
     {
@@ -160,6 +159,20 @@
         "emoji": "\ud83e\uddc0"
     },
     {
+        "id": "superfair-sf-fri",
+        "title": "Superfair SF \u2014 180 Independent Artists",
+        "subtitle": "Day 2 \u00b7 Fort Mason",
+        "date": "2026-03-20",
+        "time": "4:00 PM \u2013 10:00 PM",
+        "location": "Gateway Pavilion (Pier 2), Fort Mason",
+        "price": "$17 (use FUNCHEAP50 for 50% off!)",
+        "source": "funcheap",
+        "sourceName": "Superfair SF",
+        "link": "https://sf.funcheap.com/superfair-san-francisco-w-180-artists-march-19-22/",
+        "description": "Superfair SF's biggest Bay Area edition yet \u2014 180 independent artists across two floors at Fort Mason. Through Sunday!",
+        "emoji": "\ud83c\udfa8"
+    },
+    {
         "id": "tulip-day",
         "title": "Tulip Day \u2014 80,000 Free Tulips",
         "subtitle": "Pick up to 8 free tulips!",
@@ -174,6 +187,20 @@
         "emoji": "\ud83c\udf37"
     },
     {
+        "id": "superfair-sf-sat",
+        "title": "Superfair SF \u2014 180 Independent Artists",
+        "subtitle": "Day 3 \u00b7 Fort Mason",
+        "date": "2026-03-21",
+        "time": "10:00 AM \u2013 8:00 PM",
+        "location": "Gateway Pavilion (Pier 2), Fort Mason",
+        "price": "$17 (use FUNCHEAP50 for 50% off!)",
+        "source": "funcheap",
+        "sourceName": "Superfair SF",
+        "link": "https://sf.funcheap.com/superfair-san-francisco-w-180-artists-march-19-22/",
+        "description": "Superfair SF's biggest Bay Area edition yet \u2014 180 independent artists across two floors at Fort Mason. Last day tomorrow!",
+        "emoji": "\ud83c\udfa8"
+    },
+    {
         "id": "tiat-papier-mache",
         "title": "Papier-m\u00e2ch\u00e9 Mask Making Workshop",
         "subtitle": "Hosted by Heavy Manners Library",
@@ -186,6 +213,20 @@
         "link": "https://luma.com/4zth0hhb",
         "description": "Create your own unique papier-m\u00e2ch\u00e9 mask in this hands-on workshop with Matthew of Heavy Manners Library. All materials provided.",
         "emoji": "\ud83c\udfad"
+    },
+    {
+        "id": "superfair-sf-sun",
+        "title": "Superfair SF \u2014 180 Independent Artists",
+        "subtitle": "Final Day \u00b7 Fort Mason",
+        "date": "2026-03-22",
+        "time": "11:00 AM \u2013 5:00 PM",
+        "location": "Gateway Pavilion (Pier 2), Fort Mason",
+        "price": "$17 (use FUNCHEAP50 for 50% off!)",
+        "source": "funcheap",
+        "sourceName": "Superfair SF",
+        "link": "https://sf.funcheap.com/superfair-san-francisco-w-180-artists-march-19-22/",
+        "description": "Superfair SF's biggest Bay Area edition yet \u2014 180 independent artists across two floors at Fort Mason. LAST DAY!",
+        "emoji": "\ud83c\udfa8"
     },
     {
         "id": "dusted-blue-onggi",
