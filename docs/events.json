@@ -2,24 +2,24 @@
     {
         "id": "dusted-blue-voluminous",
         "title": "Mastering Voluminous Vessels on Wheel",
-        "subtitle": "6-week course · Tuesdays",
+        "subtitle": "6-week course \u00b7 Tuesdays",
         "date": "2026-03-10",
         "endDate": "2026-04-14",
-        "time": "Tue 6:30 PM – 9:00 PM",
+        "time": "Tue 6:30 PM \u2013 9:00 PM",
         "location": "Dusted & Blue, 1242 Mason St (Nob Hill)",
         "price": "$450",
         "source": "workshop",
         "sourceName": "Dusted & Blue",
         "link": "https://www.dustedandblue.com/classes",
         "description": "Level up your pottery skills with a 6-week course focused on creating large-scale vessels on the wheel.",
-        "emoji": "🏺"
+        "emoji": "\ud83c\udffa"
     },
     {
         "id": "somarts-clay-days",
         "title": "SOMArts Clay Days",
-        "subtitle": "Handbuilding ceramics · ongoing Mon/Wed",
+        "subtitle": "Handbuilding ceramics \u00b7 ongoing Mon/Wed",
         "date": "2026-03-17",
-        "time": "Mon & Wed 6:00 PM – 9:00 PM",
+        "time": "Mon & Wed 6:00 PM \u2013 9:00 PM",
         "location": "SOMArts, 934 Brannan St",
         "price": "$150/mo",
         "source": "workshop",
@@ -27,27 +27,27 @@
         "link": "https://www.eventbrite.com/e/clay-days-2026-tickets-1979625993637",
         "description": "Monthly membership ceramics program. Handbuilding sessions every Monday and Wednesday evening. Glaze, tools, and kiln firings included.",
         "recurring": "Mon & Wed evenings",
-        "emoji": "🧱"
+        "emoji": "\ud83e\uddf1"
     },
     {
         "id": "dusted-blue-intro-wheel",
-        "title": "Intro to Wheel — 6-Week Pottery Course",
+        "title": "Intro to Wheel \u2014 6-Week Pottery Course",
         "subtitle": "Only 2 spots left!",
         "date": "2026-03-18",
         "endDate": "2026-04-22",
-        "time": "Wed 6:30 PM – 9:00 PM",
+        "time": "Wed 6:30 PM \u2013 9:00 PM",
         "location": "Dusted & Blue, 1242 Mason St (Nob Hill)",
         "price": "$385",
         "source": "workshop",
         "sourceName": "Dusted & Blue",
         "link": "https://www.dustedandblue.com/classes",
         "description": "6-week wheel throwing course for all levels. Wednesdays 6:30-9pm, March 18 through April 22. Only 2 spots remaining.",
-        "emoji": "🫖"
+        "emoji": "\ud83e\uded6"
     },
     {
         "id": "tiat-open-sound-1",
         "title": "Open Sound (Open Decks)",
-        "subtitle": "Every Wednesday · bring your tracks or just listen",
+        "subtitle": "Every Wednesday \u00b7 bring your tracks or just listen",
         "date": "2026-03-19",
         "time": "7:00 PM",
         "location": "151 Powell St, San Francisco",
@@ -57,27 +57,27 @@
         "link": "https://luma.com/v39sfwsp",
         "description": "Weekly open decks night in the TIAT basement. Show up to perform, listen, and dance. First come first serve.",
         "recurring": "Every Wednesday",
-        "emoji": "🎧"
+        "emoji": "\ud83c\udfa7"
     },
     {
         "id": "superfair-sf-2026",
-        "title": "Superfair SF — 180 Independent Artists",
-        "subtitle": "4-day art fair · Fort Mason · through Sunday!",
+        "title": "Superfair SF \u2014 180 Independent Artists",
+        "subtitle": "4-day art fair \u00b7 Fort Mason \u00b7 through Sunday!",
         "date": "2026-03-19",
         "endDate": "2026-03-22",
-        "time": "Thu–Fri 4–10pm, Sat 10am–8pm, Sun 11am–5pm",
+        "time": "Thu\u2013Fri 4\u201310pm, Sat 10am\u20138pm, Sun 11am\u20135pm",
         "location": "Gateway Pavilion (Pier 2), Fort Mason",
         "price": "$17 (use FUNCHEAP50 for 50% off!)",
         "source": "funcheap",
         "sourceName": "Superfair SF",
         "link": "https://sf.funcheap.com/superfair-san-francisco-w-180-artists-march-19-22/",
-        "description": "Superfair SF's biggest Bay Area edition yet — 180 independent artists across two floors of the Gateway Pavilion at Fort Mason. Immersive programming and weekend of art discovery. Happening NOW through Sunday!",
-        "emoji": "🎨"
+        "description": "Superfair SF's biggest Bay Area edition yet \u2014 180 independent artists across two floors of the Gateway Pavilion at Fort Mason. Immersive programming and weekend of art discovery. Happening NOW through Sunday!",
+        "emoji": "\ud83c\udfa8"
     },
     {
         "id": "tiat-timeplace",
         "title": "time.place Exhibition Opening",
-        "subtitle": "On display March 20 – April 5",
+        "subtitle": "On display March 20 \u2013 April 5",
         "date": "2026-03-20",
         "time": "6:00 PM",
         "location": "151 Powell St, San Francisco",
@@ -86,39 +86,39 @@
         "sourceName": "TIAT",
         "link": "https://luma.com/timeplace",
         "description": "Opening night for the time.place exhibition exploring the intersection of art and technology. On display through April 5.",
-        "emoji": "✨"
+        "emoji": "\u2728"
     },
     {
         "id": "workshopsf-ceramics-mugs",
         "title": "Simple Ceramics: Handbuild Tea/Coffee Mugs",
         "subtitle": "Transform clay into two functional mugs",
         "date": "2026-03-20",
-        "time": "7:00 PM – 10:00 PM",
+        "time": "7:00 PM \u2013 10:00 PM",
         "location": "Studio Sumi, 5031 Geary Blvd (Inner Richmond)",
         "price": "$88",
         "source": "workshop",
         "sourceName": "WorkshopSF",
         "link": "https://workshopsf.org/class/simple-ceramics-handbuild-your-own-tea-or-coffee-mugs-inner-richmond-location-0320/",
         "description": "Learn handbuilding techniques to create two lovely mugs from a slab of clay. All materials and firing included.",
-        "emoji": "🏺"
+        "emoji": "\ud83c\udffa"
     },
     {
         "id": "terrarium-workshop",
         "title": "Rooted & Relaxed: A Terrarium Workshop",
         "subtitle": "A gentle creative pause in a busy world",
         "date": "2026-03-20",
-        "time": "7:00 PM – 9:00 PM",
+        "time": "7:00 PM \u2013 9:00 PM",
         "location": "Sunset Commons, 1600 Irving St",
         "price": "$65",
         "source": "workshop",
         "sourceName": "Sunset Commons",
         "link": "https://www.eventbrite.com/e/rooted-relaxed-a-terrarium-workshop-tickets-1984236364380",
         "description": "Build your own terrarium with glass vessel, soil, moss, stones and tiny accents. Tea included. No green thumb required.",
-        "emoji": "🌱"
+        "emoji": "\ud83c\udf31"
     },
     {
         "id": "sfcb-workshops",
-        "title": "SF Center for the Book — Workshops",
+        "title": "SF Center for the Book \u2014 Workshops",
         "subtitle": "Letterpress, bookbinding, risograph & more",
         "date": "2026-03-20",
         "time": "Various",
@@ -128,11 +128,40 @@
         "sourceName": "SF Center for the Book",
         "link": "https://www.sfcb.org/workshops",
         "description": "Ongoing workshops in letterpress printing, bookbinding, risograph, and book arts. Summer 2026 term launches late March.",
-        "emoji": "📚"
+        "emoji": "\ud83d\udcda"
+    },
+    {
+        "id": "castro-night-market-mar",
+        "title": "Castro Night Market \u2014 Season Opener",
+        "subtitle": "Spring Fling theme \u00b7 30+ vendors \u00b7 2 stages",
+        "date": "2026-03-20",
+        "time": "5:00 PM \u2013 10:00 PM",
+        "location": "18th & Castro St, San Francisco",
+        "price": "Free",
+        "source": "funcheap",
+        "sourceName": "Castro Merchants",
+        "link": "https://castronightmarket.com/",
+        "description": "The Castro Night Market kicks off 2026 with a Spring Fling theme! Flower-bouquet making, dating game, missed connections wall, 30+ local vendors, food trucks, live music, and drag shows. Every 3rd Friday through September.",
+        "emoji": "\ud83c\udf38"
+    },
+    {
+        "id": "artisan-cheese-festival",
+        "title": "California Artisan Cheese Festival",
+        "subtitle": "3 days of tastings, tours & cheese crawl",
+        "date": "2026-03-20",
+        "endDate": "2026-03-22",
+        "time": "Various (Marketplace Sun 12\u20134pm)",
+        "location": "Sonoma County",
+        "price": "$85 (Marketplace), Tours vary",
+        "source": "funcheap",
+        "sourceName": "CA Artisan Cheese Guild",
+        "link": "https://artisancheesefestival.com/",
+        "description": "20th Annual California Artisan Cheese Festival in Sonoma County. Farm tours, cheese crawl Saturday, and Sunday marketplace with 100+ artisan cheese producers, winemakers, and chefs.",
+        "emoji": "\ud83e\uddc0"
     },
     {
         "id": "tulip-day",
-        "title": "Tulip Day — 80,000 Free Tulips",
+        "title": "Tulip Day \u2014 80,000 Free Tulips",
         "subtitle": "Pick up to 8 free tulips!",
         "date": "2026-03-21",
         "time": "1:00 PM (line opens 9am)",
@@ -141,12 +170,12 @@
         "source": "funcheap",
         "sourceName": "Union Square Alliance",
         "link": "https://visitunionsquaresf.com/tulip-day",
-        "description": "Union Square transforms into a blooming field of 80,000 free Dutch tulips. Pick up to 8 tulips each. Expect long lines — arrive early!",
-        "emoji": "🌷"
+        "description": "Union Square transforms into a blooming field of 80,000 free Dutch tulips. Pick up to 8 tulips each. Expect long lines \u2014 arrive early!",
+        "emoji": "\ud83c\udf37"
     },
     {
         "id": "tiat-papier-mache",
-        "title": "Papier-mâché Mask Making Workshop",
+        "title": "Papier-m\u00e2ch\u00e9 Mask Making Workshop",
         "subtitle": "Hosted by Heavy Manners Library",
         "date": "2026-03-22",
         "time": "TBA",
@@ -155,8 +184,8 @@
         "source": "tiat",
         "sourceName": "TIAT",
         "link": "https://luma.com/4zth0hhb",
-        "description": "Create your own unique papier-mâché mask in this hands-on workshop with Matthew of Heavy Manners Library. All materials provided.",
-        "emoji": "🎭"
+        "description": "Create your own unique papier-m\u00e2ch\u00e9 mask in this hands-on workshop with Matthew of Heavy Manners Library. All materials provided.",
+        "emoji": "\ud83c\udfad"
     },
     {
         "id": "dusted-blue-onggi",
@@ -171,25 +200,25 @@
         "sourceName": "Dusted & Blue",
         "link": "https://www.dustedandblue.com/classes",
         "description": "A rare 4-day intensive masterclass in Korean Onggi pottery with visiting Teacher Kwak. Only 2 spots available.",
-        "emoji": "🍶"
+        "emoji": "\ud83c\udf76"
     },
     {
         "id": "workshopsf-leatherwork-wallet",
         "title": "Beginner's Leatherworking: Craft Your Own Leather Wallet",
         "subtitle": "Cut, dye & assemble a real leather wallet",
         "date": "2026-03-23",
-        "time": "7:00 PM – 10:00 PM",
+        "time": "7:00 PM \u2013 10:00 PM",
         "location": "WorkshopSF, 1310 Haight St",
         "price": "$62",
         "source": "workshop",
         "sourceName": "WorkshopSF",
         "link": "https://workshopsf.org/class/beginners-leatherworking-craft-and-dye-your-own-leather-wallet-0323/",
         "description": "Apply leatherworking techniques to cut, dye, and assemble your own wallet from vegetable tanned leather. No experience needed.",
-        "emoji": "👜"
+        "emoji": "\ud83d\udc5c"
     },
     {
         "id": "tiat-livecoding-2",
-        "title": "Livecoding Music — Beat DJ Workshop",
+        "title": "Livecoding Music \u2014 Beat DJ Workshop",
         "subtitle": "Learn to create & perform music through code",
         "date": "2026-03-24",
         "time": "6:30 PM",
@@ -199,40 +228,40 @@
         "sourceName": "TIAT",
         "link": "https://luma.com/5us3q7sd",
         "description": "Create your first beat in an hour using Soniare's Beat DJ software. Weekly recurring workshop.",
-        "emoji": "🎵"
+        "emoji": "\ud83c\udfb5"
     },
     {
         "id": "workshopsf-kokedama",
         "title": "Kokedama: Japanese Hanging Plant & Moss Ball Gardens",
         "subtitle": "Make 2 moss ball planters to take home",
         "date": "2026-03-24",
-        "time": "7:00 PM – 9:00 PM",
+        "time": "7:00 PM \u2013 9:00 PM",
         "location": "WorkshopSF, 1310 Haight St",
         "price": "$64",
         "source": "workshop",
         "sourceName": "WorkshopSF",
         "link": "https://workshopsf.org/class/kokedama-japanese-hanging-plant-moss-ball-gardens-0324/",
-        "description": "Learn to assemble Japanese moss ball gardens (kokedama). You'll make two — one small and one medium — using string binding. Perfect beginner-friendly couple activity.",
-        "emoji": "🌿"
+        "description": "Learn to assemble Japanese moss ball gardens (kokedama). You'll make two \u2014 one small and one medium \u2014 using string binding. Perfect beginner-friendly couple activity.",
+        "emoji": "\ud83c\udf3f"
     },
     {
         "id": "friends-neighbors-riso",
         "title": "Cut & Paste: Analog Risograph Workshop",
         "subtitle": "Make 20 risograph postcards",
         "date": "2026-03-25",
-        "time": "6:00 PM – 9:30 PM",
+        "time": "6:00 PM \u2013 9:30 PM",
         "location": "Friends & Neighbors, 275 6th Ave (Inner Richmond)",
         "price": "$109",
         "source": "workshop",
         "sourceName": "Friends & Neighbors",
         "link": "https://www.eventbrite.com/e/cut-paste-analog-risograph-workshop-tickets-1982837793216",
         "description": "All-analog Risograph workshop. Collage, cut-and-paste, and color to create a set of two-color risograph postcards. Phone-free community.",
-        "emoji": "🖨️"
+        "emoji": "\ud83d\udda8\ufe0f"
     },
     {
         "id": "tiat-open-sound-2",
         "title": "Open Sound (Open Decks)",
-        "subtitle": "Every Wednesday · bring your tracks or just listen",
+        "subtitle": "Every Wednesday \u00b7 bring your tracks or just listen",
         "date": "2026-03-26",
         "time": "7:00 PM",
         "location": "151 Powell St, San Francisco",
@@ -242,7 +271,7 @@
         "link": "https://luma.com/nqu4nn2n",
         "description": "Weekly open decks night in the TIAT basement. Show up to perform, listen, and dance.",
         "recurring": "Every Wednesday",
-        "emoji": "🎧"
+        "emoji": "\ud83c\udfa7"
     },
     {
         "id": "nowplace-zinester",
@@ -253,38 +282,38 @@
         "location": "679 Clay St, San Francisco",
         "price": "TBA",
         "source": "nowplace",
-        "sourceName": "nowplace 此间",
+        "sourceName": "nowplace \u6b64\u95f4",
         "link": "https://lu.ma/drsfdq09",
         "description": "A gathering for zinesters exploring Asian diaspora themes and DIY publishing culture.",
-        "emoji": "📖"
+        "emoji": "\ud83d\udcd6"
     },
     {
         "id": "sf-chocolate-salon",
         "title": "SF International Chocolate Salon",
-        "subtitle": "20th anniversary · tastings & demos",
+        "subtitle": "20th anniversary \u00b7 tastings & demos",
         "date": "2026-03-28",
-        "time": "11:00 AM – 5:00 PM",
+        "time": "11:00 AM \u2013 5:00 PM",
         "location": "Hall of Flowers, 1199 9th Ave (Golden Gate Park)",
         "price": "$25",
         "source": "funcheap",
         "sourceName": "SF Chocolate Salon",
         "link": "https://www.eventbrite.com/e/san-francisco-chocolate-salon-and-festival-2026-tickets-1976663690308",
         "description": "The original artisan chocolate festival on the West Coast celebrates 20 years. Tastings, demonstrations, and chef talks included with entry.",
-        "emoji": "🍫"
+        "emoji": "\ud83c\udf6b"
     },
     {
         "id": "junk-journal-intro-sat",
         "title": "Intro to Junk Journaling Workshop",
         "subtitle": "Saturday session",
         "date": "2026-03-28",
-        "time": "4:00 PM – 5:00 PM",
+        "time": "4:00 PM \u2013 5:00 PM",
         "location": "Westin Millbrae, Millbrae",
         "price": "TBA",
         "source": "junk-journal",
         "sourceName": "SF Junk Journal Club",
         "link": "https://www.instagram.com/sfjunkjournalclub/",
         "description": "Learn the basics of junk journaling in this beginner-friendly workshop.",
-        "emoji": "📓"
+        "emoji": "\ud83d\udcd3"
     },
     {
         "id": "tiat-creative-coding",
@@ -298,7 +327,7 @@
         "sourceName": "TIAT",
         "link": "https://luma.com/NOC12",
         "description": "An exhibition showcasing works created through creative coding and generative art.",
-        "emoji": "💻"
+        "emoji": "\ud83d\udcbb"
     },
     {
         "id": "funcheap-renegade",
@@ -306,14 +335,14 @@
         "subtitle": "250+ independent makers at Fort Mason",
         "date": "2026-03-28",
         "endDate": "2026-03-29",
-        "time": "11:00 AM – 5:00 PM",
+        "time": "11:00 AM \u2013 5:00 PM",
         "location": "Fort Mason Festival Pavilion",
         "price": "Free",
         "source": "funcheap",
         "sourceName": "Renegade Craft Fair",
         "link": "https://sf.funcheap.com/2026-renegade-craft-fair-market-at-fort-mason-march-28-29/",
         "description": "250+ independent makers and artists showcase handmade goods, art, and design at Fort Mason. $5 suggested entry.",
-        "emoji": "🧶"
+        "emoji": "\ud83e\uddf6"
     },
     {
         "id": "junk-journal-stationery-fest",
@@ -327,7 +356,7 @@
         "sourceName": "SF Junk Journal Club",
         "link": "https://www.instagram.com/sfjunkjournalclub/",
         "description": "SF Junk Journal Club meetup at the SF Stationery Fest.",
-        "emoji": "✏️"
+        "emoji": "\u270f\ufe0f"
     },
     {
         "id": "junk-journal-intro-sun",
@@ -340,13 +369,13 @@
         "source": "junk-journal",
         "sourceName": "SF Junk Journal Club",
         "link": "https://www.instagram.com/sfjunkjournalclub/",
-        "description": "Sunday session — learn the basics of junk journaling in this beginner-friendly workshop.",
-        "emoji": "📓"
+        "description": "Sunday session \u2014 learn the basics of junk journaling in this beginner-friendly workshop.",
+        "emoji": "\ud83d\udcd3"
     },
     {
         "id": "tiat-esolangs-workshop",
         "title": "Esolangs Workshop (Esoteric Programming Languages)",
-        "subtitle": "Code as art · TIAT × Daniel Temkin",
+        "subtitle": "Code as art \u00b7 TIAT \u00d7 Daniel Temkin",
         "date": "2026-03-29",
         "time": "11:00 AM",
         "location": "TIAT (tiat.place), San Francisco",
@@ -354,41 +383,41 @@
         "source": "tiat",
         "sourceName": "TIAT",
         "link": "https://lu.ma/esolangs",
-        "description": "Explore programming languages designed to be strange, poetic, or impossible. Led by esolang artist Daniel Temkin. At the intersection of art and code — very on-brand for Amy.",
-        "emoji": "💻"
+        "description": "Explore programming languages designed to be strange, poetic, or impossible. Led by esolang artist Daniel Temkin. At the intersection of art and code \u2014 very on-brand for Amy.",
+        "emoji": "\ud83d\udcbb"
     },
     {
         "id": "workshopsf-cyanotype",
         "title": "Intro to Cyanotype Printing: Sun Prints on Paper & Fabric",
         "subtitle": "Ancient photo printing technique with plants & objects",
         "date": "2026-03-29",
-        "time": "12:00 PM – 3:00 PM",
+        "time": "12:00 PM \u2013 3:00 PM",
         "location": "WorkshopSF, 1310 Haight St",
         "price": "$58",
         "source": "workshop",
         "sourceName": "WorkshopSF",
         "link": "https://workshopsf.org/class/intro-to-cyanotype-printing-sun-prints-and-nature-designs-on-paper-and-fabric-0329/",
         "description": "Use real objects, stencils, and drawings to create beautiful Prussian blueprints on paper and fabric using sunlight. Gorgeous and very satisfying.",
-        "emoji": "🌞"
+        "emoji": "\ud83c\udf1e"
     },
     {
         "id": "workshopsf-pressed-flower",
         "title": "Floral Design: Pressed Flower Mosaic",
-        "subtitle": "Design with pressed botanicals · beginner-friendly",
+        "subtitle": "Design with pressed botanicals \u00b7 beginner-friendly",
         "date": "2026-03-31",
-        "time": "7:00 PM – 10:00 PM",
+        "time": "7:00 PM \u2013 10:00 PM",
         "location": "WorkshopSF, 1310 Haight St",
         "price": "$64",
         "source": "workshop",
         "sourceName": "WorkshopSF",
         "link": "https://workshopsf.org/class/floral-design-pressed-flower-mosaic-0331/",
         "description": "Work with pressed flowers and foliage to create a botanical mosaic. Led by Jodie Zhao of PlantBox. Learn balance, rhythm, color harmony with natural materials.",
-        "emoji": "🌸"
+        "emoji": "\ud83c\udf38"
     },
     {
         "id": "tiat-salon-16",
-        "title": "tiat salon #16 — Swissnex Edition",
-        "subtitle": "Art × tech meetup at Swissnex",
+        "title": "tiat salon #16 \u2014 Swissnex Edition",
+        "subtitle": "Art \u00d7 tech meetup at Swissnex",
         "date": "2026-04-03",
         "time": "6:30 PM",
         "location": "Swissnex San Francisco",
@@ -397,25 +426,25 @@
         "sourceName": "TIAT",
         "link": "https://lu.ma/tiat16",
         "description": "The intersection of art and technology in salon format, this time hosted at Swissnex. Great crowd of creative technologists.",
-        "emoji": "🤝"
+        "emoji": "\ud83e\udd1d"
     },
     {
         "id": "nowplace-qingming",
         "title": "Qingming Private Gathering",
-        "subtitle": "清明节 · Qingming Festival",
+        "subtitle": "\u6e05\u660e\u8282 \u00b7 Qingming Festival",
         "date": "2026-04-05",
         "time": "TBA",
         "location": "679 Clay St, San Francisco",
         "price": "TBA",
         "source": "nowplace",
-        "sourceName": "nowplace 此间",
+        "sourceName": "nowplace \u6b64\u95f4",
         "link": "https://lu.ma/nl0vvs05",
-        "description": "A private gathering to observe Qingming Festival at nowplace 此间.",
-        "emoji": "🌿"
+        "description": "A private gathering to observe Qingming Festival at nowplace \u6b64\u95f4.",
+        "emoji": "\ud83c\udf3f"
     },
     {
         "id": "tiat-flora-exhibition-opening",
-        "title": "Exhibition Opening: FLORA x tiat — Olfactory Thing",
+        "title": "Exhibition Opening: FLORA x tiat \u2014 Olfactory Thing",
         "subtitle": "Scent-based art show opening",
         "date": "2026-04-10",
         "time": "7:00 PM",
@@ -424,8 +453,8 @@
         "source": "tiat",
         "sourceName": "TIAT",
         "link": "https://lu.ma/olfactorything",
-        "description": "Opening night for FLORA x tiat's Olfactory Thing exhibition — an art show about scent. Very unusual and very SF.",
-        "emoji": "🌺"
+        "description": "Opening night for FLORA x tiat's Olfactory Thing exhibition \u2014 an art show about scent. Very unusual and very SF.",
+        "emoji": "\ud83c\udf3a"
     },
     {
         "id": "sf-cherry-blossom-festival",
@@ -433,33 +462,33 @@
         "subtitle": "Two weekends in Japantown",
         "date": "2026-04-11",
         "endDate": "2026-04-19",
-        "time": "Sat–Sun 11am–5pm (Apr 11-12 & 18-19)",
+        "time": "Sat\u2013Sun 11am\u20135pm (Apr 11-12 & 18-19)",
         "location": "Japantown Peace Plaza",
         "price": "Free",
         "source": "funcheap",
         "sourceName": "SF Cherry Blossom Festival",
         "link": "https://sf.funcheap.com/sf-cherry-blossom-festival-2026-april-11-12-19-20/",
         "description": "One of the largest Cherry Blossom festivals in the country. Two weekends of Japanese cultural exhibits, taiko drums, ikebana, food, and a grand parade on April 19.",
-        "emoji": "🌸"
+        "emoji": "\ud83c\udf38"
     },
     {
         "id": "inner-sunset-flea-market",
         "title": "Inner Sunset Flea Market",
-        "subtitle": "Every 2nd Sunday · Apr–Nov",
+        "subtitle": "Every 2nd Sunday \u00b7 Apr\u2013Nov",
         "date": "2026-04-12",
-        "time": "10:00 AM – 4:00 PM",
-        "location": "Irving St (9th–11th Ave), Inner Sunset",
+        "time": "10:00 AM \u2013 4:00 PM",
+        "location": "Irving St (9th\u201311th Ave), Inner Sunset",
         "price": "Free",
         "source": "funcheap",
         "sourceName": "Inner Sunset Flea Market",
         "link": "https://sf.funcheap.com/sunset-flea-market-returns-2026-sunday/",
         "description": "10th season of this beloved flea market. Irving Street transforms into a lively community market every second Sunday through November.",
         "recurring": "Every 2nd Sunday",
-        "emoji": "🛍️"
+        "emoji": "\ud83d\udecd\ufe0f"
     },
     {
         "id": "tiat-activated-sculpture",
-        "title": "ACTIVATED SCULPTURE — Cardboard + TouchDesigner Projection Mapping",
+        "title": "ACTIVATED SCULPTURE \u2014 Cardboard + TouchDesigner Projection Mapping",
         "subtitle": "Build a cardboard sculpture and map visuals onto it",
         "date": "2026-04-12",
         "time": "11:00 AM",
@@ -468,80 +497,80 @@
         "source": "tiat",
         "sourceName": "TIAT",
         "link": "https://lu.ma/txac38nb",
-        "description": "Construct a cardboard sculpture then use TouchDesigner to projection-map visuals onto it. Led by Mark Russ Hellar. This is Amy's world — physical making + interactive tech. Pricey but very hands-on.",
-        "emoji": "📦"
+        "description": "Construct a cardboard sculpture then use TouchDesigner to projection-map visuals onto it. Led by Mark Russ Hellar. This is Amy's world \u2014 physical making + interactive tech. Pricey but very hands-on.",
+        "emoji": "\ud83d\udce6"
     },
     {
         "id": "sf-art-fair-2026",
         "title": "San Francisco Art Fair",
-        "subtitle": "14th edition · Fort Mason Festival Pavilion",
+        "subtitle": "14th edition \u00b7 Fort Mason Festival Pavilion",
         "date": "2026-04-16",
         "endDate": "2026-04-19",
-        "time": "Thu 4–9pm, Fri–Sat 11am–8pm, Sun 11am–6pm",
+        "time": "Thu 4\u20139pm, Fri\u2013Sat 11am\u20138pm, Sun 11am\u20136pm",
         "location": "Fort Mason Festival Pavilion",
         "price": "$35/day (fair pass $65)",
         "source": "funcheap",
         "sourceName": "SF Art Fair",
         "link": "https://sf.funcheap.com/san-francisco-art-fair-april-1619/",
         "description": "Bay Area's longest-running contemporary art fair returns for its 14th edition. Galleries from around the world showing works across disciplines.",
-        "emoji": "🖼️"
+        "emoji": "\ud83d\uddbc\ufe0f"
     },
     {
         "id": "fort-mason-night-market",
         "title": "Fort Mason Night Market",
-        "subtitle": "50+ craft vendors · food trucks · live music",
+        "subtitle": "50+ craft vendors \u00b7 food trucks \u00b7 live music",
         "date": "2026-04-17",
-        "time": "5:00 PM – 10:00 PM",
+        "time": "5:00 PM \u2013 10:00 PM",
         "location": "Fort Mason Center, 2 Marina Blvd",
         "price": "Free",
         "source": "funcheap",
         "sourceName": "Fort Mason Center",
         "link": "https://fortmason.org/event/fort-mason-night-market-2026/",
         "description": "Monthly Friday Night Market at Fort Mason. West Coast Craft curates 50+ artisan vendors outdoors, Off The Grid brings 20+ food trucks, and Stern Grove Festival programs live music. Incredible waterfront views. Free!",
-        "emoji": "🌙"
+        "emoji": "\ud83c\udf19"
     },
     {
         "id": "startup-art-fair-2026",
-        "title": "Startup Art Fair — 70+ Indie Artists in a 1950s Motel",
-        "subtitle": "Boutique gallery takeover · Hotel Del Sol",
+        "title": "Startup Art Fair \u2014 70+ Indie Artists in a 1950s Motel",
+        "subtitle": "Boutique gallery takeover \u00b7 Hotel Del Sol",
         "date": "2026-04-17",
         "endDate": "2026-04-19",
-        "time": "Fri 5–10pm, Sat 12–9pm, Sun 12–7pm",
+        "time": "Fri 5\u201310pm, Sat 12\u20139pm, Sun 12\u20137pm",
         "location": "Hotel Del Sol, 3100 Webster St",
         "price": "Free",
         "source": "funcheap",
         "sourceName": "Startup Art Fair",
         "link": "https://sf.funcheap.com/startup-art-fair-70-indie-artist-fair-1950s-motel-april-1719/",
-        "description": "Boutique multi-room gallery experience transforms Hotel del Sol into an immersive art fair. Every door opens to discovery — 70+ indie artists.",
-        "emoji": "🏨"
+        "description": "Boutique multi-room gallery experience transforms Hotel del Sol into an immersive art fair. Every door opens to discovery \u2014 70+ indie artists.",
+        "emoji": "\ud83c\udfe8"
     },
     {
         "id": "fort-mason-night-market-may",
         "title": "Fort Mason Night Market: May",
-        "subtitle": "50+ craft vendors · food trucks · live music",
+        "subtitle": "50+ craft vendors \u00b7 food trucks \u00b7 live music",
         "date": "2026-05-22",
-        "time": "5:00 PM – 10:00 PM",
+        "time": "5:00 PM \u2013 10:00 PM",
         "location": "Fort Mason Center, 2 Marina Blvd",
         "price": "Free",
         "source": "funcheap",
-        "sourceName": "West Coast Craft × Fort Mason",
+        "sourceName": "West Coast Craft \u00d7 Fort Mason",
         "link": "https://www.westcoastcraft.com/attendee-calendar",
         "description": "Monthly Friday Night Market series. West Coast Craft artisans + Off the Grid food trucks + Stern Grove live music against stunning waterfront views.",
-        "emoji": "🌙"
+        "emoji": "\ud83c\udf19"
     },
     {
         "id": "wcc-summer-2026",
         "title": "West Coast Craft Summer '26",
-        "subtitle": "275+ craftspeople · 2-day indoor show",
+        "subtitle": "275+ craftspeople \u00b7 2-day indoor show",
         "date": "2026-06-13",
         "endDate": "2026-06-14",
-        "time": "Sat–Sun 10:00 AM – 6:00 PM",
+        "time": "Sat\u2013Sun 10:00 AM \u2013 6:00 PM",
         "location": "Festival Pavilion, Fort Mason Center",
         "price": "Free",
         "source": "funcheap",
         "sourceName": "West Coast Craft",
         "link": "https://www.westcoastcraft.com/attend",
-        "description": "The big one — West Coast Craft's flagship summer event with 275+ of the best artist and designer craftspeople. The best craft fair in the Bay Area.",
-        "emoji": "☀️"
+        "description": "The big one \u2014 West Coast Craft's flagship summer event with 275+ of the best artist and designer craftspeople. The best craft fair in the Bay Area.",
+        "emoji": "\u2600\ufe0f"
     }
 ]
