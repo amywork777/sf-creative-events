@@ -1,147 +1,5 @@
 [
     {
-        "id": "nowplace-linoblock",
-        "title": "Lino Block Printing Working/Hangout 版画刻印聚会",
-        "subtitle": "Print together at nowplace · near capacity",
-        "date": "2026-04-09",
-        "time": "6:30 PM",
-        "location": "Now Place 此间, San Francisco",
-        "price": "TBA",
-        "source": "nowplace",
-        "sourceName": "nowplace 此间",
-        "link": "https://lu.ma/63itr6ix",
-        "description": "A working/hangout session for lino block printing with the Asian diaspora creative community at Now Place. Near capacity — grab a spot fast.",
-        "emoji": "🖨️"
-    },
-    {
-        "id": "workshopsf-watercolor-galaxy",
-        "title": "Beginner's Watercolor: Night Sky, Galaxy & Deep Space",
-        "subtitle": "Paint glowing galaxies from scratch · no experience needed",
-        "date": "2026-04-09",
-        "time": "7:00 PM – 9:00 PM",
-        "location": "WorkshopSF, 1310 Haight St",
-        "price": "$64",
-        "source": "workshop",
-        "sourceName": "WorkshopSF",
-        "link": "https://workshopsf.org/class/beginners-watercolor-night-sky-galaxy-and-deep-space-0409/",
-        "description": "Paint beautiful galaxies, night skies, and deep space using watercolor techniques. Beginner-friendly and genuinely beautiful to make together.",
-        "emoji": "🌌"
-    },
-    {
-        "id": "tiat-flora-exhibition-opening",
-        "title": "Exhibition Opening: FLORA x tiat — Olfactory Thing",
-        "subtitle": "Scent-based art show opening",
-        "date": "2026-04-10",
-        "time": "7:00 PM",
-        "location": "TIAT (tiat.place), San Francisco",
-        "price": "Free",
-        "source": "tiat",
-        "sourceName": "TIAT",
-        "link": "https://lu.ma/olfactorything",
-        "description": "Opening night for FLORA x tiat's Olfactory Thing exhibition — an art show about scent. Very unusual and very SF.",
-        "emoji": "🌺"
-    },
-    {
-        "id": "nowplace-bookbinding",
-        "title": "Crafting a Vessel for Thought: Bookbinding Workshop",
-        "subtitle": "Make your own hand-bound book · near capacity",
-        "date": "2026-04-11",
-        "time": "2:00 PM",
-        "location": "Now Place 此间, San Francisco",
-        "price": "TBA",
-        "source": "nowplace",
-        "sourceName": "nowplace 此间",
-        "link": "https://lu.ma/htzr1hko",
-        "description": "Hands-on bookbinding workshop at Now Place. Learn to craft a vessel for your thoughts — literally. Near capacity, register fast.",
-        "emoji": "📚"
-    },
-    {
-        "id": "sf-cherry-blossom-festival",
-        "title": "SF Cherry Blossom Festival 2026",
-        "subtitle": "Two weekends in Japantown",
-        "date": "2026-04-11",
-        "endDate": "2026-04-19",
-        "time": "Sat–Sun 11am–5pm (Apr 11-12 & 18-19)",
-        "location": "Japantown Peace Plaza",
-        "price": "Free",
-        "source": "funcheap",
-        "sourceName": "SF Cherry Blossom Festival",
-        "link": "https://sfcherryblossom.org/",
-        "description": "One of the largest Cherry Blossom festivals in the country. Two weekends of Japanese cultural exhibits, taiko drums, ikebana, food, and a grand parade on April 19.",
-        "emoji": "🌸"
-    },
-    {
-        "id": "tiat-activated-sculpture",
-        "title": "ACTIVATED SCULPTURE — Cardboard + TouchDesigner Projection Mapping",
-        "subtitle": "Build a cardboard sculpture and map visuals onto it",
-        "date": "2026-04-12",
-        "time": "11:00 AM",
-        "location": "TIAT (tiat.place), San Francisco",
-        "price": "$250",
-        "source": "tiat",
-        "sourceName": "TIAT",
-        "link": "https://lu.ma/txac38nb",
-        "description": "Construct a cardboard sculpture then use TouchDesigner to projection-map visuals onto it. Led by ash & Mark Russ Hellar. Physical making + interactive tech — this is exactly Amy's world.",
-        "emoji": "📦"
-    },
-    {
-        "id": "inner-sunset-flea-market",
-        "title": "Inner Sunset Flea Market",
-        "subtitle": "Every 2nd Sunday · Apr–Nov",
-        "date": "2026-04-12",
-        "time": "10:00 AM – 4:00 PM",
-        "location": "Irving St (9th–11th Ave), Inner Sunset",
-        "price": "Free",
-        "source": "funcheap",
-        "sourceName": "Inner Sunset Flea Market",
-        "link": "https://sf.funcheap.com/sunset-flea-market-returns-2026-sunday/",
-        "description": "10th season of this beloved flea market. Irving Street transforms into a lively community market every second Sunday through November.",
-        "recurring": "Every 2nd Sunday",
-        "emoji": "🛒"
-    },
-    {
-        "id": "tiat-robot-dance",
-        "title": "how to make your robot dance",
-        "subtitle": "Hands-on robotics workshop — dance moves + AI + mocap",
-        "date": "2026-04-13",
-        "time": "7:00 PM – 8:00 PM",
-        "location": "TIAT, 151 Powell St, San Francisco",
-        "price": "$40",
-        "source": "tiat",
-        "sourceName": "TIAT",
-        "link": "https://lu.ma/robotdance",
-        "description": "Learn the basics of creative engineering for robotics at this hands-on workshop. Topics: sensor fusion + AI, audio/visual/3D processing, mocap + expressive movement. Led by Mitch Chaiet of Experiential Technologies.",
-        "emoji": "🤖"
-    },
-    {
-        "id": "workshopsf-block-printing",
-        "title": "Intro to Block Printing: Carve & Print Your Own Designs",
-        "subtitle": "Carve rubber stamps, print on tote bags & journals",
-        "date": "2026-04-14",
-        "time": "7:00 PM – 9:30 PM",
-        "location": "WorkshopSF, 1310 Haight St",
-        "price": "$58",
-        "source": "workshop",
-        "sourceName": "WorkshopSF",
-        "link": "https://workshopsf.org/class/intro-to-block-printing-carve-print-your-own-designs-0414/",
-        "description": "Design, carve, and print your own patterns on cardstock, a Moleskine journal, and a soft denim tote bag. Really satisfying couple activity.",
-        "emoji": "🖼️"
-    },
-    {
-        "id": "workshopsf-uv-resin",
-        "title": "Intro to UV Resin: Make Jewelry, Coasters, Keychains & More",
-        "subtitle": "Cast your own resin pieces · beginner-friendly",
-        "date": "2026-04-15",
-        "time": "7:00 PM – 9:30 PM",
-        "location": "WorkshopSF, 1310 Haight St",
-        "price": "$48",
-        "source": "workshop",
-        "sourceName": "WorkshopSF",
-        "link": "https://workshopsf.org/class/intro-to-uv-resin-learn-to-make-resin-jewelry-coasters-keychains-and-more-0415/",
-        "description": "Learn UV resin casting to create earrings, pendant necklaces, charms, keychains, and coasters. Great 'take something home' couple workshop.",
-        "emoji": "💎"
-    },
-    {
         "id": "sf-art-fair-2026",
         "title": "San Francisco Art Fair 2026",
         "subtitle": "14th edition · Fort Mason Festival Pavilion",
@@ -167,8 +25,8 @@
         "source": "tiat",
         "sourceName": "TIAT",
         "link": "https://lu.ma/amen",
-        "description": "Monthly exhibition opening at TIAT, the gallery for artists experimenting with emerging technologies. Come see the latest show 'if then, amen'. Free to attend.",
-        "emoji": "🖼️"
+        "description": "Monthly exhibition opening at TIAT. 'if then, amen' explores computation and belief — machines that listen, predict, confess. Algorithms as oracles, interfaces as altars. Exhibition runs April 16–May 2.",
+        "emoji": "🕯️"
     },
     {
         "id": "fort-mason-night-market-apr",
@@ -181,7 +39,7 @@
         "source": "funcheap",
         "sourceName": "West Coast Craft × Fort Mason",
         "link": "https://fortmason.org/event/fort-mason-night-market-2026/",
-        "description": "Monthly Friday Night Market at Fort Mason. West Coast Craft artisans + Off The Grid food trucks + Stern Grove live music. Free, waterfront, perfect for a date.",
+        "description": "Monthly Friday Night Market at Fort Mason. West Coast Craft artisans + Off The Grid food trucks + live music from gloomy june + DJ HGMNY. Free, waterfront, perfect for a date.",
         "emoji": "🌙"
     },
     {
@@ -220,7 +78,7 @@
         "subtitle": "Bilingual zine launch at nowplace 此间",
         "date": "2026-04-18",
         "time": "2:00 PM",
-        "location": "Now Place 此间, San Francisco",
+        "location": "Now Place 此间, 679 Clay St, San Francisco",
         "price": "$10",
         "source": "nowplace",
         "sourceName": "nowplace 此间",
@@ -243,17 +101,32 @@
         "emoji": "🔷"
     },
     {
+        "id": "maker-faire-early-bird",
+        "title": "⚡ Maker Faire Bay Area 2026 — Early Bird Tickets Expire Apr 22",
+        "subtitle": "20th anniversary · Sept 25–27 at Historic Mare Island Shipyard",
+        "date": "2026-04-22",
+        "time": "Early bird expires at 11:59 PM",
+        "location": "Historic Mare Island Shipyard, Vallejo",
+        "price": "Early bird (30% off) — expires April 22!",
+        "source": "maker",
+        "sourceName": "Maker Faire Bay Area",
+        "link": "https://makerfaire.com/bay-area/",
+        "description": "The big one — 20th anniversary Maker Faire returns to the Bay Area at Historic Mare Island Shipyard, Sept 25–27. Art, tech, science, craft, and pure maker energy. Early bird pricing expires April 22.",
+        "emoji": "⚡",
+        "urgent": true
+    },
+    {
         "id": "nowplace-ghostscribbles",
         "title": "鬼画符 Ghost Scribbles: Drawing Your Own Fu Talisman",
         "subtitle": "Design a traditional Chinese fu talisman · pay-what-you-can",
         "date": "2026-04-25",
-        "time": "2:00 PM",
-        "location": "Now Place 此间, San Francisco",
+        "time": "2:00 PM – 5:00 PM",
+        "location": "Now Place 此间, 679 Clay St, San Francisco",
         "price": "$25 suggested",
         "source": "nowplace",
         "sourceName": "nowplace 此间",
         "link": "https://lu.ma/y2l57biq",
-        "description": "Learn the art of drawing fu talismans — traditional Chinese protective charms. A surprisingly meditative and creative experience.",
+        "description": "Learn the art of drawing fu talismans — traditional Chinese protective charms. Fluorescent ink on black paper, invisible wax + watercolor reveals, collaborative community scroll. No drawing experience needed.",
         "emoji": "🔮"
     },
     {
@@ -341,6 +214,21 @@
         "emoji": "📝"
     },
     {
+        "id": "head-west-ferry-may",
+        "title": "Head West Craft Fair at SF Ferry Building",
+        "subtitle": "50+ makers · every 1st Sunday · free",
+        "date": "2026-05-03",
+        "time": "11:00 AM – 5:00 PM",
+        "location": "SF Ferry Building Back Plaza",
+        "price": "Free",
+        "source": "funcheap",
+        "sourceName": "Head West",
+        "link": "https://sf.funcheap.com/head-west-craft-fair-50-makers-sf-ferry-building/",
+        "description": "50+ makers, crafters, artists, designers, and vintage sellers with live local music. Happens every first Sunday of the month, March–December. Waterfront, free, and great for a casual stroll.",
+        "recurring": "Every 1st Sunday",
+        "emoji": "🛍️"
+    },
+    {
         "id": "wcc-waves-may",
         "title": "WCC WAVES May '26",
         "subtitle": "Vintage show · clothing, design & housewares",
@@ -355,6 +243,21 @@
         "emoji": "👗"
     },
     {
+        "id": "inner-sunset-flea-market-may",
+        "title": "Inner Sunset Flea Market",
+        "subtitle": "Every 2nd Sunday · Apr–Nov",
+        "date": "2026-05-10",
+        "time": "10:00 AM – 4:00 PM",
+        "location": "Irving St (9th–11th Ave), Inner Sunset",
+        "price": "Free",
+        "source": "funcheap",
+        "sourceName": "Inner Sunset Flea Market",
+        "link": "https://sf.funcheap.com/sunset-flea-market-returns-2026-sunday/",
+        "description": "10th season of this beloved flea market. Irving Street transforms into a lively community market every second Sunday through November.",
+        "recurring": "Every 2nd Sunday",
+        "emoji": "🛒"
+    },
+    {
         "id": "tiat-grillz-lab",
         "title": "Yaaqee Studio Grillz Lab at TIAT",
         "subtitle": "Make your own custom grillz from scratch",
@@ -365,7 +268,7 @@
         "source": "tiat",
         "sourceName": "TIAT",
         "link": "https://lu.ma/grillz",
-        "description": "Learn to make grillz from scratch with Ida Lajevardi of Yaaqee Studio. You'll take dental impressions, create plaster molds, and design wax grillz — totally unique, totally you. Industrial designer background meets jewelry art.",
+        "description": "Learn to make grillz from scratch with Ida Lajevardi of Yaaqee Studio. Dental impressions, plaster molds, wax design — totally unique, totally you.",
         "emoji": "✨"
     },
     {
@@ -396,5 +299,20 @@
         "link": "https://www.westcoastcraft.com/attend",
         "description": "The big one — West Coast Craft's flagship summer event with 275+ of the best artist and designer craftspeople. The best craft fair in the Bay Area.",
         "emoji": "☀️"
+    },
+    {
+        "id": "maker-faire-bay-area-2026",
+        "title": "Maker Faire Bay Area 2026 — 20th Anniversary",
+        "subtitle": "Three days of making · Historic Mare Island Shipyard",
+        "date": "2026-09-25",
+        "endDate": "2026-09-27",
+        "time": "Sept 25–27",
+        "location": "Historic Mare Island Shipyard, Vallejo",
+        "price": "Ticketed",
+        "source": "maker",
+        "sourceName": "Maker Faire Bay Area",
+        "link": "https://makerfaire.com/bay-area/",
+        "description": "The 20th anniversary of the very first Maker Faire, returning to the Bay Area. Art, technology, science, and craft collide at the historic Mare Island Shipyard. Three full days. A homecoming.",
+        "emoji": "🔧"
     }
 ]
